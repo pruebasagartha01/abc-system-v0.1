@@ -1,0 +1,175 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: '5E065A73C26782F976E50432BD5B96B1',
+    participant: undefined
+  },
+  messageTimestamp: 1683896540,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: '2E4B7BF7234B7CA26C1EE260F48BBECE',
+    participant: undefined
+  },
+  messageTimestamp: 1683896556,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Pppp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pppp',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: '317B9A38DACF2A7EB0C8AAD3848FFABD',
+    participant: undefined
+  },
+  messageTimestamp: 1683896568,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: 'E38A775C57E326483B817FFE552955CE',
+    participant: undefined
+  },
+  messageTimestamp: 1683896616,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Pppp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pppp',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: '2BAD6F7D763ED21001D191C44E81F5CF',
+    participant: undefined
+  },
+  messageTimestamp: 1683896634,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: 'F3964898ACCBD60AA98961CC638F25B0',
+    participant: undefined
+  },
+  messageTimestamp: 1683896697,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Pppp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pppp',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56937656264@s.whatsapp.net',
+    fromMe: false,
+    id: '1AF60EBC076F0A0FB49FA613CFE9C4F0',
+    participant: undefined
+  },
+  messageTimestamp: 1683896718,
+  pushName: 'Daysi LI',
+  message: Message {
+    conversation: 'Atención',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Atención',
+  from: '56937656264'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56965745249@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB477D41FA79DD84CC4',
+    participant: undefined
+  },
+  messageTimestamp: 1683897892,
+  pushName: 'Lore',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '56965745249'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56965745249@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEA70FD82D125FB6876',
+    participant: undefined
+  },
+  messageTimestamp: 1683897914,
+  pushName: 'Lore',
+  message: Message {
+    conversation: 'Lo pensaré',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lo pensaré',
+  from: '56965745249'
+}
